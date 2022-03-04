@@ -1,0 +1,3 @@
+43 found and no of comparisons were 42
+1200 found and no of comparisons were 11
+34 found and no of comparisons were 7
